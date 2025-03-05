@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/bf55f373-ca4e-4083-a121-c7d8146ec59c)**HR ATTRITION DASHBOARD**
-
-
 **📌 Objective:**
 To analyze employee attrition trends across various factors such as age, education, salary, years at the company, job roles, and gender. This helps HR professionals make data-driven decisions to reduce turnover and improve employee retention.
 
